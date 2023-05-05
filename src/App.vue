@@ -1,5 +1,5 @@
 <template>
-  <h1>Nguyễn phương nam</h1>
+  <h1>Nguyễn phương d</h1>
 </template>
 
 <script setup>
